@@ -1,5 +1,5 @@
 # gra-platformowa
-Gry zręcznościowej, w której postać porusza się po wielopoziomowych platformach.
+Gra zręcznościowa, w której postać porusza się po wielopoziomowych platformach.
 [Link do gry w wersij online](https://microstudio.io/Benekin/graplatformowazelementamisi222246/PG5U2RH8/)
 
 # Środowisko
