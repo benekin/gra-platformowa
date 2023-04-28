@@ -30,3 +30,5 @@ Postać przedstawia ninję, ma wymiary 16x16px, została narysowana w edytorze s
 
 # SI
 W grze można wyróżnić 4 typy przeciwników. W każdym z nich działanie sztucznej inteligencji opiera się na prostym drzewie decyzyjnym.
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
