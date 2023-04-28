@@ -1,6 +1,6 @@
 # gra-platformowa
 Gry zręcznościowej, w której postać porusza się po wielopoziomowych platformach.
-Link do gry w wersij online - https://microstudio.io/Benekin/graplatformowazelementamisi222246/PG5U2RH8/
+[Link do gry w wersij online](https://microstudio.io/Benekin/graplatformowazelementamisi222246/PG5U2RH8/)
 
 # Środowisko
 MicroStudio jest darmowym silnikiem służącym do tworzenia gier online. Udostępniony jest on w formie strony internetowej. Wszystkie pliki przechowywane są w chmurze, przez co projekt można otworzyć na dowolnym urządzeniu, bez potrzeby kopiowania lub udostępniania plików. Istnieje możliwość korzystania z silnika offline, bez konieczności łączenia się z internetem. Środowisko posiada wszystkie niezbędne narzędzia umożliwiające tworzenie podstawowych gier. MicroStudio jest środowiskiem dynamicznie rozwijającym się. Na moment rozpoczęcia prac nad implementowaną grą, dostępny był jedynie język microscript. Wraz z upływem czasu baza dostępnych języków została rozszerzona.
@@ -11,12 +11,12 @@ wyposażonych w sztuczną inteligencję oraz liczne przeszkody, aby finalnie zmi
 
 # Zastosowany język oraz biblioteka graficzna 
 Gra została w całości napisana w języku microScript, który inspirowany jest językiem Lua. Główne cechy języka to:
-• zmienne są domyślnie globalne;
-• nie ma wartości null, nil lub undefined;
-• każda niezdefiniowana lub pusta zmienna ma wartość 0;
-• funkcja init odpowiada za inicjalizację zmiennej i wywoływana jest tylko raz podczas działania programu;
-• funkcja update jest wywoływana 60 razy na sekundę. Wnętrze tej funkcji jest przeznaczone do programowania logiki oraz fizyki gry;
-• Funkcja draw jest wywoływana tak często jak można odświeżyć ekran, służy do rysowania oraz umieszczania gotowych elementów.
++ zmienne są domyślnie globalne;
++ nie ma wartości null, nil lub undefined;
++ każda niezdefiniowana lub pusta zmienna ma wartość 0;
++ funkcja init odpowiada za inicjalizację zmiennej i wywoływana jest tylko raz podczas działania programu;
++ funkcja update jest wywoływana 60 razy na sekundę. Wnętrze tej funkcji jest przeznaczone do programowania logiki oraz fizyki gry;
++ Funkcja draw jest wywoływana tak często jak można odświeżyć ekran, służy do rysowania oraz umieszczania gotowych elementów.
 W projekcie wykorzystano bibliotekę basic graphic API, która w zupełności wystarczy do stworzenia prostej gry platformowej
 
 # Fizyka
